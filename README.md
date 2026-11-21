@@ -1,4 +1,4 @@
-# Working Process Knowledge Assistant
+# rag_agent: Working Process Knowledge Assistant
 
 A local RAG demo that answers questions from the SMB and Enterprise working-process documents. It reads Word `.docx` files from `Documents`, keeps their headings and tables in context, retrieves relevant sections, reranks them, and shows the sources used for each answer.
 
